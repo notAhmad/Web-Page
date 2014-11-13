@@ -1,4 +1,31 @@
 h1 {
-  color:purple;
-  background-color:green;
-  }
+    position:center;
+    background-color:blue;
+    border-radius:6px solid black;
+    border-color:black;
+    text-align:center;
+    width:500px;
+    height:35px;
+    color:black;
+    border:color:black;
+}
+html {
+    background-color:grey;
+    color:purple;
+}
+#stuff {
+    position:center;
+    text-align:center;
+    center:
+}
+a:hover {
+    cursor:pointer;
+}
+h2 {
+    position:center;
+    text-align:center;
+}
+p {
+    position:center;
+    text-align:center;
+}
